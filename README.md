@@ -1,4 +1,4 @@
-# vue-dyj-web2
+# Lucky Draw (移动端转盘抽奖)
 
 ## Project setup
 ```
